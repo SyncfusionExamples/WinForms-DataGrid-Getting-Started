@@ -2,13 +2,13 @@
 
 ## Overview
 
-This demo shows how to create a simple sample in WinForms SfDataGrid. The sample demonstrates the basic setup and usage of the Syncfusion WinForms DataGrid control to display order data in a tabular format.
+This demo shows how to create a simple sample in [WinForms SfDataGrid](https://www.syncfusion.com/winforms-ui-controls/datagrid). The sample demonstrates the basic setup and usage of the Syncfusion WinForms DataGrid control to display order data in a tabular format.
 
 ## Key Features
 
 - Display data in a DataGrid control
 - Automatic column generation from data source
-- Simple data binding to the DataGrid
+- Simple [data binding](https://help.syncfusion.com/windowsforms/datagrid/databinding) to the DataGrid
 
 ## Getting Started
 
